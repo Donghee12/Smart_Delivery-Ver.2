@@ -1,0 +1,17 @@
+# .gitignore (루트 디렉토리에 작성)
+bin/
+obj/
+.vs/
+*.dll
+*.so
+*.dylib
+*.onnx
+*.exe
+*.pdb
+*.log
+*.cache
+*.ipch
+*.VC.db.vs/
+*.ipch
+*.VC.db
+
